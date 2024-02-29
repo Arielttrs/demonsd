@@ -18,5 +18,8 @@ int myFunction(int x, int y) {
 }
 
 void myFunction(){
+}
+
+void myFunction_2(int){
 
 }
